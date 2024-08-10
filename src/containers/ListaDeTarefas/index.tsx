@@ -7,14 +7,14 @@ const tarefas = [
     descricao:
       'Estudar Typescript para melhorar o desenvolvimento de aplicações React',
     prioridade: 'Importante',
-    status: 'Em andamento'
+    status: 'Pendente'
   },
   {
     titulo: 'Estudar Python',
     descricao:
       'Estudar Python para melhorar o desenvolvimento de aplicações Django',
     prioridade: 'Importante',
-    status: 'Em andamento'
+    status: 'Pendente'
   },
   {
     titulo: 'Estudar banco de dados',
