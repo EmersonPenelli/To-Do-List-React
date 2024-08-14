@@ -1,6 +1,6 @@
 # 🏆 App Lista de tarefas
-![GitHub repo size](https://img.shields.io/github/repo-size/EmersonPenelli/lista-de-tarefas-react?style=for-the-badge)
-![Languages](https://img.shields.io/github/languages/count/EmersonPenelli/lista-de-tarefas-react?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/EmersonPenelli/To-Do-List-React?style=for-the-badge)
+![Languages](https://img.shields.io/github/languages/count/EmersonPenelli/To-Do-List-React?style=for-the-badge)
 ![Status projeto](https://img.shields.io/badge/STATUS-CONCLUIDO-GREEN?style=for-the-badge)
 
 ## ✔️ Tecnologias Utilizadas
